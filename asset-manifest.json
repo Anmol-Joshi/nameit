@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Anmol-Joshi/nameit/static/css/main.b8d52a23.chunk.css",
-    "main.js": "/Anmol-Joshi/nameit/static/js/main.03f482e6.chunk.js",
-    "main.js.map": "/Anmol-Joshi/nameit/static/js/main.03f482e6.chunk.js.map",
-    "runtime-main.js": "/Anmol-Joshi/nameit/static/js/runtime-main.dc8edc47.js",
-    "runtime-main.js.map": "/Anmol-Joshi/nameit/static/js/runtime-main.dc8edc47.js.map",
-    "static/js/2.100963e6.chunk.js": "/Anmol-Joshi/nameit/static/js/2.100963e6.chunk.js",
-    "static/js/2.100963e6.chunk.js.map": "/Anmol-Joshi/nameit/static/js/2.100963e6.chunk.js.map",
-    "index.html": "/Anmol-Joshi/nameit/index.html",
-    "static/css/main.b8d52a23.chunk.css.map": "/Anmol-Joshi/nameit/static/css/main.b8d52a23.chunk.css.map",
-    "static/js/2.100963e6.chunk.js.LICENSE.txt": "/Anmol-Joshi/nameit/static/js/2.100963e6.chunk.js.LICENSE.txt"
+    "main.css": "/nameit/static/css/main.b8d52a23.chunk.css",
+    "main.js": "/nameit/static/js/main.03f482e6.chunk.js",
+    "main.js.map": "/nameit/static/js/main.03f482e6.chunk.js.map",
+    "runtime-main.js": "/nameit/static/js/runtime-main.a5204dd0.js",
+    "runtime-main.js.map": "/nameit/static/js/runtime-main.a5204dd0.js.map",
+    "static/js/2.100963e6.chunk.js": "/nameit/static/js/2.100963e6.chunk.js",
+    "static/js/2.100963e6.chunk.js.map": "/nameit/static/js/2.100963e6.chunk.js.map",
+    "index.html": "/nameit/index.html",
+    "static/css/main.b8d52a23.chunk.css.map": "/nameit/static/css/main.b8d52a23.chunk.css.map",
+    "static/js/2.100963e6.chunk.js.LICENSE.txt": "/nameit/static/js/2.100963e6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc8edc47.js",
+    "static/js/runtime-main.a5204dd0.js",
     "static/js/2.100963e6.chunk.js",
     "static/css/main.b8d52a23.chunk.css",
     "static/js/main.03f482e6.chunk.js"
